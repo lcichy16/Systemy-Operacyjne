@@ -1,0 +1,2 @@
+# Systemy-Operacyjne
+Linux - Bash
