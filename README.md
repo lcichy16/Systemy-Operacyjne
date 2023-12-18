@@ -1,2 +1,2 @@
 # Systemy-Operacyjne
-Linux - Bash
+Linux - Bash and C
