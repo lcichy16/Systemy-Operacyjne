@@ -1,2 +1,5 @@
 # Systemy-Operacyjne
-Linux - Bash and C
+Linux Commands
+Bash Scripts
+C language
+
